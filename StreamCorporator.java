@@ -1,5 +1,5 @@
 public class StreamCorporator {
-    public static int compareGroups(Stream stream1, Stream stream2){
+    public static int compareGroups(Stream stream1, Stream stream2) {
         int groupCount1 = 0;
         int groupCount2 = 0;
 
